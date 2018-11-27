@@ -1,3 +1,5 @@
+verzia 1
+
 declare
   sRIDOut varchar2(16);
 begin
