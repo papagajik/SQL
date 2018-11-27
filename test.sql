@@ -1,4 +1,4 @@
-verzia 1
+verzia 2
 
 declare
   sRIDOut varchar2(16);
